@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\bin\Debug\net10.0\AdaptiveSort.exe
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\bin\Debug\net10.0\AdaptiveSort.deps.json
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\bin\Debug\net10.0\AdaptiveSort.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\bin\Debug\net10.0\AdaptiveSort.dll
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\bin\Debug\net10.0\AdaptiveSort.pdb
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\AdaptiveSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\AdaptiveSort.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\AdaptiveSort.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\AdaptiveSort.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\AdaptiveSort.dll
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\refint\AdaptiveSort.dll
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\AdaptiveSort.pdb
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\AdaptiveSort.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-2\DAY-1\AdaptiveSort\AdaptiveSort\obj\Debug\net10.0\ref\AdaptiveSort.dll

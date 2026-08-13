@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\net10.0\BinarySearchAlgorithm.exe
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\net10.0\BinarySearchAlgorithm.deps.json
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\net10.0\BinarySearchAlgorithm.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\net10.0\BinarySearchAlgorithm.dll
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\bin\Debug\net10.0\BinarySearchAlgorithm.pdb
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\BinarySearchAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\BinarySearchAlgorithm.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\BinarySearchAlgorithm.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\BinarySearchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\BinarySearchAlgorithm.dll
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\refint\BinarySearchAlgorithm.dll
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\BinarySearchAlgorithm.pdb
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\BinarySearchAlgorithm.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-2\DAY-1\BinarySearchAlgorithm\BinarySearchAlgorithm\obj\Debug\net10.0\ref\BinarySearchAlgorithm.dll
