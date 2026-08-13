@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\bin\Debug\net10.0\Lab-2 Indexers and Properties.exe
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\bin\Debug\net10.0\Lab-2 Indexers and Properties.deps.json
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\bin\Debug\net10.0\Lab-2 Indexers and Properties.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\bin\Debug\net10.0\Lab-2 Indexers and Properties.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\bin\Debug\net10.0\Lab-2 Indexers and Properties.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\Lab-2 Indexers and Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\Lab-2 Indexers and Properties.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\Lab-2 Indexers and Properties.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\Lab-2 Indexers and Properties.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\Lab-2 Indexers and Properties.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\refint\Lab-2 Indexers and Properties.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\Lab-2 Indexers and Properties.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\Lab-2 Indexers and Properties.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-2 Indexers and Properties\Lab-2 Indexers and Properties\obj\Debug\net10.0\ref\Lab-2 Indexers and Properties.dll

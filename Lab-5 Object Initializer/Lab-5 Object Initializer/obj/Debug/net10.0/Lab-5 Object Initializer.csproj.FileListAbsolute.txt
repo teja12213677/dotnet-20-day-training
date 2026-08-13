@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\bin\Debug\net10.0\Lab-5 Object Initializer.exe
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\bin\Debug\net10.0\Lab-5 Object Initializer.deps.json
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\bin\Debug\net10.0\Lab-5 Object Initializer.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\bin\Debug\net10.0\Lab-5 Object Initializer.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\bin\Debug\net10.0\Lab-5 Object Initializer.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\Lab-5 Object Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\Lab-5 Object Initializer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\Lab-5 Object Initializer.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\Lab-5 Object Initializer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\Lab-5 Object Initializer.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\refint\Lab-5 Object Initializer.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\Lab-5 Object Initializer.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\Lab-5 Object Initializer.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-5 Object Initializer\Lab-5 Object Initializer\obj\Debug\net10.0\ref\Lab-5 Object Initializer.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\bin\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.exe
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\bin\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.deps.json
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\bin\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\bin\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\bin\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\refint\Lab-6 Capstone -Generic Typed Cache.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\Lab-6 Capstone -Generic Typed Cache.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-4\Lab-6 Capstone -Generic Typed Cache\Lab-6 Capstone -Generic Typed Cache\obj\Debug\net10.0\ref\Lab-6 Capstone -Generic Typed Cache.dll
