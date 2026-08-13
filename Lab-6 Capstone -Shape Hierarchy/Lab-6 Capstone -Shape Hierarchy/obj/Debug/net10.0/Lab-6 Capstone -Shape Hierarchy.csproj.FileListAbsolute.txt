@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\bin\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.exe
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\bin\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.deps.json
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\bin\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\bin\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\bin\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\refint\Lab-6 Capstone -Shape Hierarchy.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\Lab-6 Capstone -Shape Hierarchy.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab-6 Capstone -Shape Hierarchy\Lab-6 Capstone -Shape Hierarchy\obj\Debug\net10.0\ref\Lab-6 Capstone -Shape Hierarchy.dll
