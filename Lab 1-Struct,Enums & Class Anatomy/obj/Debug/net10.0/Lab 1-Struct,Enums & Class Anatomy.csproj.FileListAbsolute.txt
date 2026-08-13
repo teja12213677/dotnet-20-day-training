@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\bin\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.exe
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\bin\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.deps.json
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\bin\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\bin\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\bin\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\refint\Lab 1-Struct,Enums & Class Anatomy.dll
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.pdb
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\Lab 1-Struct,Enums & Class Anatomy.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-3\DAY-2\Lab 1-Struct,Enums & Class Anatomy\Lab 1-Struct,Enums & Class Anatomy\obj\Debug\net10.0\ref\Lab 1-Struct,Enums & Class Anatomy.dll
