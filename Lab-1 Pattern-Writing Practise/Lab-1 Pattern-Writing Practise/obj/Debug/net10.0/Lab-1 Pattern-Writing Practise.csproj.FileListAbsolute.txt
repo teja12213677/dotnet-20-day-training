@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\bin\Debug\net10.0\Lab-1 Pattern-Writing Practise.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\bin\Debug\net10.0\Lab-1 Pattern-Writing Practise.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\bin\Debug\net10.0\Lab-1 Pattern-Writing Practise.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\bin\Debug\net10.0\Lab-1 Pattern-Writing Practise.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\bin\Debug\net10.0\Lab-1 Pattern-Writing Practise.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\Lab-1 Pattern-Writing Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\Lab-1 Pattern-Writing Practise.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\Lab-1 Pattern-Writing Practise.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\Lab-1 Pattern-Writing Practise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\Lab-1 Pattern-Writing Practise.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\refint\Lab-1 Pattern-Writing Practise.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\Lab-1 Pattern-Writing Practise.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\Lab-1 Pattern-Writing Practise.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-1 Pattern-Writing Practise\Lab-1 Pattern-Writing Practise\obj\Debug\net10.0\ref\Lab-1 Pattern-Writing Practise.dll

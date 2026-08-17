@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\bin\Debug\net10.0\Lab-2 Extracting &Transforming Text.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\bin\Debug\net10.0\Lab-2 Extracting &Transforming Text.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\bin\Debug\net10.0\Lab-2 Extracting &Transforming Text.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\bin\Debug\net10.0\Lab-2 Extracting &Transforming Text.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\bin\Debug\net10.0\Lab-2 Extracting &Transforming Text.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\Lab-2 Extracting &Transforming Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\Lab-2 Extracting &Transforming Text.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\Lab-2 Extracting &Transforming Text.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\Lab-2 Extracting &Transforming Text.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\Lab-2 Extracting &Transforming Text.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\refint\Lab-2 Extracting &Transforming Text.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\Lab-2 Extracting &Transforming Text.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\Lab-2 Extracting &Transforming Text.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-2 Extracting &Transforming Text\Lab-2 Extracting &Transforming Text\obj\Debug\net10.0\ref\Lab-2 Extracting &Transforming Text.dll
