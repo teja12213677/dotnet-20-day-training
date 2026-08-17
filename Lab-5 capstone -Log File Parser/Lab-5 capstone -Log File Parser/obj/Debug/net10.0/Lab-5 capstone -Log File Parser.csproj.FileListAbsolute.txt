@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\bin\Debug\net10.0\Lab-5 capstone -Log File Parser.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\bin\Debug\net10.0\Lab-5 capstone -Log File Parser.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\bin\Debug\net10.0\Lab-5 capstone -Log File Parser.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\bin\Debug\net10.0\Lab-5 capstone -Log File Parser.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\bin\Debug\net10.0\Lab-5 capstone -Log File Parser.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\Lab-5 capstone -Log File Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\Lab-5 capstone -Log File Parser.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\Lab-5 capstone -Log File Parser.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\Lab-5 capstone -Log File Parser.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\Lab-5 capstone -Log File Parser.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\refint\Lab-5 capstone -Log File Parser.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\Lab-5 capstone -Log File Parser.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\Lab-5 capstone -Log File Parser.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-1\Lab-5 capstone -Log File Parser\Lab-5 capstone -Log File Parser\obj\Debug\net10.0\ref\Lab-5 capstone -Log File Parser.dll
