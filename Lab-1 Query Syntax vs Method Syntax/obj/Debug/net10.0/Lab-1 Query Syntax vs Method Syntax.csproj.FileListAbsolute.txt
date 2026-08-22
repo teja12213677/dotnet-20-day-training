@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\bin\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\bin\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\bin\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\bin\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\bin\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\refint\Lab-1 Query Syntax vs Method Syntax.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\Lab-1 Query Syntax vs Method Syntax.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-1 Query Syntax vs Method Syntax\obj\Debug\net10.0\ref\Lab-1 Query Syntax vs Method Syntax.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\bin\Debug\net10.0\Lab-2 Select Projections.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\bin\Debug\net10.0\Lab-2 Select Projections.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\bin\Debug\net10.0\Lab-2 Select Projections.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\bin\Debug\net10.0\Lab-2 Select Projections.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\bin\Debug\net10.0\Lab-2 Select Projections.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\Lab-2 Select Projections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\Lab-2 Select Projections.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\Lab-2 Select Projections.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\Lab-2 Select Projections.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\Lab-2 Select Projections.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\refint\Lab-2 Select Projections.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\Lab-2 Select Projections.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\Lab-2 Select Projections.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-2 Select Projections\obj\Debug\net10.0\ref\Lab-2 Select Projections.dll

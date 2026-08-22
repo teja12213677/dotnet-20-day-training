@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\bin\Debug\net10.0\Lab-4 OfType.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\bin\Debug\net10.0\Lab-4 OfType.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\bin\Debug\net10.0\Lab-4 OfType.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\bin\Debug\net10.0\Lab-4 OfType.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\bin\Debug\net10.0\Lab-4 OfType.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\Lab-4 OfType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\Lab-4 OfType.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\Lab-4 OfType.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\Lab-4 OfType.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\Lab-4 OfType.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\refint\Lab-4 OfType.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\Lab-4 OfType.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\Lab-4 OfType.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-4 OfType\obj\Debug\net10.0\ref\Lab-4 OfType.dll
