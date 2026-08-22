@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\bin\Debug\net10.0\Lab-8 Comprehensive Mini Project.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\bin\Debug\net10.0\Lab-8 Comprehensive Mini Project.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\bin\Debug\net10.0\Lab-8 Comprehensive Mini Project.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\bin\Debug\net10.0\Lab-8 Comprehensive Mini Project.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\bin\Debug\net10.0\Lab-8 Comprehensive Mini Project.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\Lab-8 Comprehensive Mini Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\Lab-8 Comprehensive Mini Project.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\Lab-8 Comprehensive Mini Project.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\Lab-8 Comprehensive Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\Lab-8 Comprehensive Mini Project.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\refint\Lab-8 Comprehensive Mini Project.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\Lab-8 Comprehensive Mini Project.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\Lab-8 Comprehensive Mini Project.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-8 Comprehensive Mini Project\obj\Debug\net10.0\ref\Lab-8 Comprehensive Mini Project.dll
