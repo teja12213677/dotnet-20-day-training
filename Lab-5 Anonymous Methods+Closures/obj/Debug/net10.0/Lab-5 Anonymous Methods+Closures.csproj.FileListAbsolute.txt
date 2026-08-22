@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\bin\Debug\net10.0\Lab-5 Anonymous Methods+Closures.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\bin\Debug\net10.0\Lab-5 Anonymous Methods+Closures.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\bin\Debug\net10.0\Lab-5 Anonymous Methods+Closures.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\bin\Debug\net10.0\Lab-5 Anonymous Methods+Closures.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\bin\Debug\net10.0\Lab-5 Anonymous Methods+Closures.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\Lab-5 Anonymous Methods+Closures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\Lab-5 Anonymous Methods+Closures.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\Lab-5 Anonymous Methods+Closures.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\Lab-5 Anonymous Methods+Closures.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\Lab-5 Anonymous Methods+Closures.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\refint\Lab-5 Anonymous Methods+Closures.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\Lab-5 Anonymous Methods+Closures.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\Lab-5 Anonymous Methods+Closures.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-5 Anonymous Methods+Closures\obj\Debug\net10.0\ref\Lab-5 Anonymous Methods+Closures.dll
