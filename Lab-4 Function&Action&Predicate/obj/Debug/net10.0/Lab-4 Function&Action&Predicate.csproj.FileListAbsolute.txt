@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\bin\Debug\net10.0\Lab-4 Function&Action&Predicate.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\bin\Debug\net10.0\Lab-4 Function&Action&Predicate.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\bin\Debug\net10.0\Lab-4 Function&Action&Predicate.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\bin\Debug\net10.0\Lab-4 Function&Action&Predicate.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\bin\Debug\net10.0\Lab-4 Function&Action&Predicate.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\Lab-4 Function&Action&Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\Lab-4 Function&Action&Predicate.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\Lab-4 Function&Action&Predicate.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\Lab-4 Function&Action&Predicate.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\Lab-4 Function&Action&Predicate.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\refint\Lab-4 Function&Action&Predicate.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\Lab-4 Function&Action&Predicate.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\Lab-4 Function&Action&Predicate.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-4 Function&Action&Predicate\obj\Debug\net10.0\ref\Lab-4 Function&Action&Predicate.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\bin\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\bin\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\bin\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\bin\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\bin\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\refint\Lab-1 Var  vs Explicit Types vs Dynamic.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\Lab-1 Var  vs Explicit Types vs Dynamic.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-1 Var  vs Explicit Types vs Dynamic\obj\Debug\net10.0\ref\Lab-1 Var  vs Explicit Types vs Dynamic.dll

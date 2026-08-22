@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\bin\Debug\net10.0\Lab-2 Declaring and Using Delegates.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\bin\Debug\net10.0\Lab-2 Declaring and Using Delegates.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\bin\Debug\net10.0\Lab-2 Declaring and Using Delegates.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\bin\Debug\net10.0\Lab-2 Declaring and Using Delegates.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\bin\Debug\net10.0\Lab-2 Declaring and Using Delegates.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\Lab-2 Declaring and Using Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\Lab-2 Declaring and Using Delegates.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\Lab-2 Declaring and Using Delegates.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\Lab-2 Declaring and Using Delegates.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\Lab-2 Declaring and Using Delegates.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\refint\Lab-2 Declaring and Using Delegates.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\Lab-2 Declaring and Using Delegates.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\Lab-2 Declaring and Using Delegates.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-2 Declaring and Using Delegates\obj\Debug\net10.0\ref\Lab-2 Declaring and Using Delegates.dll
