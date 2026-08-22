@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\bin\Debug\net10.0\Lab-5 OrderBy or ThenBy.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\bin\Debug\net10.0\Lab-5 OrderBy or ThenBy.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\bin\Debug\net10.0\Lab-5 OrderBy or ThenBy.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\bin\Debug\net10.0\Lab-5 OrderBy or ThenBy.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\bin\Debug\net10.0\Lab-5 OrderBy or ThenBy.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\Lab-5 OrderBy or ThenBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\Lab-5 OrderBy or ThenBy.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\Lab-5 OrderBy or ThenBy.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\Lab-5 OrderBy or ThenBy.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\Lab-5 OrderBy or ThenBy.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\refint\Lab-5 OrderBy or ThenBy.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\Lab-5 OrderBy or ThenBy.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\Lab-5 OrderBy or ThenBy.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-5\Linq\Lab-5 OrderBy or ThenBy\obj\Debug\net10.0\ref\Lab-5 OrderBy or ThenBy.dll
