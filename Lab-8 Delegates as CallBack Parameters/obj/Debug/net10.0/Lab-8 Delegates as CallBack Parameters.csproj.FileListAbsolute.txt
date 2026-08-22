@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\bin\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\bin\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\bin\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\bin\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\bin\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\refint\Lab-8 Delegates as CallBack Parameters.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\Lab-8 Delegates as CallBack Parameters.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-8 Delegates as CallBack Parameters\obj\Debug\net10.0\ref\Lab-8 Delegates as CallBack Parameters.dll

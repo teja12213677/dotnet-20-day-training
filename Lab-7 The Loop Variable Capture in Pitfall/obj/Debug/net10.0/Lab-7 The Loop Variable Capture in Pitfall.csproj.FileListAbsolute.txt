@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\bin\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.exe
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\bin\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.deps.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\bin\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.runtimeconfig.json
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\bin\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\bin\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.AssemblyInfo.cs
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\refint\Lab-7 The Loop Variable Capture in Pitfall.dll
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.pdb
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\Lab-7 The Loop Variable Capture in Pitfall.genruntimeconfig.cache
+C:\Users\hp\source\repos\WEEK-4\DAY-4\Delegates and Lamda\Lab-7 The Loop Variable Capture in Pitfall\obj\Debug\net10.0\ref\Lab-7 The Loop Variable Capture in Pitfall.dll
